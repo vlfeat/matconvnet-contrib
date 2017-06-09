@@ -10,4 +10,6 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnSSD](https://github.com/albanie/mcnSSD) Implementation of the SSD detector.
 * [siamese-mnist](https://github.com/lenck/siamese-mnist) MNIST Siamese Network example.
 * [mcn-example-module](https://github.com/lenck/mcn-example-module) Example contribution repository, including C++/CUDA code compilation.
+* [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks for Matconvnet..
+
 
