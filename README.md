@@ -11,6 +11,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnSSD](https://github.com/albanie/mcnSSD) Single Shot Multi-box Detector (SSD).
 * [mcnFasterRCNN](https://github.com/albanie/mcnFasterRCNN) Faster R-CNN.
 * [mcnPyTorch](https://github.com/albanie/mcnPyTorch) Tool for importing pytorch models into MatConvNet.
+* [mcnNMS](https://github.com/albanie/mcnNMS) GPU-based non-maximum supression.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
 * [siamese-mnist](https://github.com/lenck/siamese-mnist) MNIST Siamese Network example.
 * [dagnn_caffe_deploy](https://github.com/ecoto/dagnn_caffe_deploy) MatConvNet-DagNN to Caffe model converter.
