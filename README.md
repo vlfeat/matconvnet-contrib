@@ -9,7 +9,8 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [autonn](https://github.com/vlfeat/autonn) Automatic Differentiation engine for MatConvNet.
 * [schedule](https://github.com/jotaf98/schedule)  Scheduler for MatConvNet experiments, including grid and random searches, with multi-GPU support.
 * [mcnSSD](https://github.com/albanie/mcnSSD) Single Shot Multi-box Detector (SSD).
-* [mcnFasterRCNN](https://github.com/albanie/mcnFasterRCNN) Faster R-CNN.
+* [mcnFasterRCNN](https://github.com/albanie/mcnFasterRCNN) Faster R-CNN object detector.
+* [mcnFasterRCNN](https://github.com/albanie/mcnRFCN) R-FCN object detector.
 * [mcnPyTorch](https://github.com/albanie/mcnPyTorch) Tool for importing pytorch models into MatConvNet.
 * [mcnResNeXt](https://github.com/albanie/mcnResNeXt) ResNeXt models
 * [mcnNMS](https://github.com/albanie/mcnNMS) GPU-based non-maximum supression.
