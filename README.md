@@ -11,6 +11,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnSSD](https://github.com/albanie/mcnSSD) Single Shot Multi-box Detector (SSD).
 * [mcnFasterRCNN](https://github.com/albanie/mcnFasterRCNN) Faster R-CNN object detector.
 * [mcnRFCN](https://github.com/albanie/mcnRFCN) R-FCN object detector.
+* [mcnBReNorm](https://github.com/albanie/mcnBReNorm) Batch Renormalization.
 * [mcnPyTorch](https://github.com/albanie/mcnPyTorch) Tool for importing pytorch models into MatConvNet.
 * [mcnResNeXt](https://github.com/albanie/mcnResNeXt) ResNeXt models
 * [mcnNMS](https://github.com/albanie/mcnNMS) GPU-based non-maximum supression.
