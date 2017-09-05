@@ -15,6 +15,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnBReNorm](https://github.com/albanie/mcnBReNorm) Batch Renormalization.
 * [mcnPyTorch](https://github.com/albanie/mcnPyTorch) Tool for importing pytorch models into MatConvNet.
 * [mcnRobustLoss](https://github.com/albanie/mcnRobustLoss) Robust loss functions
+* [mcnMaxout](https://github.com/albanie/mcnMaxout) Maxout Networks
 * [mcnResNeXt](https://github.com/albanie/mcnResNeXt) ResNeXt models
 * [mcnNMS](https://github.com/albanie/mcnNMS) GPU-based non-maximum supression.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
