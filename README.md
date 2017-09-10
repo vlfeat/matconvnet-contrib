@@ -19,6 +19,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnResNeXt](https://github.com/albanie/mcnResNeXt) ResNeXt Models.
 * [mcnSENets](https://github.com/albanie/mcnSENets) Squeeze-and-Excitation Networks.
 * [mcnNMS](https://github.com/albanie/mcnNMS) GPU-based non-maximum supression.
+* [mcnMovingStats](https://github.com/albanie/mcnMovingStats) Online estimation of feature statistics.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
 * [siamese-mnist](https://github.com/lenck/siamese-mnist) MNIST Siamese Network example.
 * [dagnn_caffe_deploy](https://github.com/ecoto/dagnn_caffe_deploy) MatConvNet-DagNN to Caffe model converter.
