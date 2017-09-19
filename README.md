@@ -19,6 +19,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnResNeXt](https://github.com/albanie/mcnResNeXt) ResNeXt Models.
 * [mcnSENets](https://github.com/albanie/mcnSENets) Squeeze-and-Excitation Networks.
 * [mcnNMS](https://github.com/albanie/mcnNMS) GPU-based non-maximum supression.
+* [mcnColors](https://github.com/albanie/mcnColors) GPU-based color transformations.
 * [mcnMovingStats](https://github.com/albanie/mcnMovingStats) Online estimation of feature statistics.
 * [mcnExtraLayers](https://github.com/albanie/mcnExtraLayers) Additional layers for matconvnet.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
