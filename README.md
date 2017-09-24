@@ -22,6 +22,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnColors](https://github.com/albanie/mcnColors) GPU-based color transformations.
 * [mcnMovingStats](https://github.com/albanie/mcnMovingStats) Online estimation of feature statistics.
 * [mcnExtraLayers](https://github.com/albanie/mcnExtraLayers) Additional layers for matconvnet.
+* [mcnDeeplab](https://github.com/albanie/mcnDeeplab) Deeplab segmentation.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
 * [siamese-mnist](https://github.com/lenck/siamese-mnist) MNIST Siamese Network example.
 * [dagnn_caffe_deploy](https://github.com/ecoto/dagnn_caffe_deploy) MatConvNet-DagNN to Caffe model converter.
