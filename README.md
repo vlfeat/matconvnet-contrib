@@ -23,6 +23,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnMovingStats](https://github.com/albanie/mcnMovingStats) Online estimation of feature statistics.
 * [mcnExtraLayers](https://github.com/albanie/mcnExtraLayers) Additional layers for matconvnet.
 * [mcnDeepLab](https://github.com/albanie/mcnDeepLab) DeepLab segmentation.
+* [VGGvox](https://github.com/a-nagrani/VGGVox) VGGVox models trained on the VoxCeleb dataset.
 * [mcnDatasets](https://github.com/albanie/mcnDatasets) Common dataset imdb helpers.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
 * [siamese-mnist](https://github.com/lenck/siamese-mnist) MNIST Siamese Network example.
