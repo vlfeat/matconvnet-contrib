@@ -28,4 +28,5 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
 * [siamese-mnist](https://github.com/lenck/siamese-mnist) MNIST Siamese Network example.
 * [dagnn_caffe_deploy](https://github.com/ecoto/dagnn_caffe_deploy) MatConvNet-DagNN to Caffe model converter.
+* [RotEqNet](https://github.com/di-marcos/RotEqNet) Rotation equivariant vector field networks.
 * [mcn-example-module](https://github.com/lenck/mcn-example-module) Example contribution repository, including C++/CUDA code compilation.
