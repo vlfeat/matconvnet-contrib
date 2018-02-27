@@ -26,6 +26,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [VGGVox](https://github.com/a-nagrani/VGGVox) VGGVox models trained on the VoxCeleb dataset.
 * [mcnDatasets](https://github.com/albanie/mcnDatasets) Common dataset imdb helpers.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
+* [mcnIm2row](https://github.com/albanie/mcnIm2row) MATLAB interface to the im2row function.
 * [siamese-mnist](https://github.com/lenck/siamese-mnist) MNIST Siamese Network example.
 * [dagnn_caffe_deploy](https://github.com/ecoto/dagnn_caffe_deploy) MatConvNet-DagNN to Caffe model converter.
 * [RotEqNet](https://github.com/di-marcos/RotEqNet) Rotation equivariant vector field networks.
