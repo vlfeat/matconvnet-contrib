@@ -31,4 +31,5 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [dagnn_caffe_deploy](https://github.com/ecoto/dagnn_caffe_deploy) MatConvNet-DagNN to Caffe model converter.
 * [RotEqNet](https://github.com/di-marcos/RotEqNet) Rotation equivariant vector field networks.
 * [autonn-feedforward-texture-synthesis](https://github.com/ryanwebster90/autonn-feedforward-texture-synthesis) Feed forward texture synthesis in autonn.
+* [WSDDN](https://github.com/hbilen/WSDDN) Weakly Supervised Detection Networks
 * [mcn-example-module](https://github.com/lenck/mcn-example-module) Example contribution repository, including C++/CUDA code compilation.
