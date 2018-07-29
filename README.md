@@ -7,6 +7,7 @@ They can be downloaded separately, or managed with the `vl_contrib` command (inc
 To add new repositories, open a Pull Request with your suggested changes (GitHub and BitBucket repositories are supported).
 
 * [autonn](https://github.com/vlfeat/autonn) Automatic Differentiation engine for MatConvNet.
+* [Curveball](https://github.com/jotaf98/curveball) Second-order optimiser for deep networks.
 * [schedule](https://github.com/jotaf98/schedule)  Scheduler for MatConvNet experiments, including grid and random searches, with multi-GPU support.
 * [convnet-burden](https://github.com/albanie/convnet-burden) Memory estimates/FLOP counting for convnet architectures.
 * [mcnSSD](https://github.com/albanie/mcnSSD) Single Shot Multi-box Detector (SSD).
