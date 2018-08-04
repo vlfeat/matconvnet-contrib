@@ -27,6 +27,7 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [mcnGroupNorm](https://github.com/albanie/mcnGroupNorm) Group Normalization experiments.
 * [VGGVox](https://github.com/a-nagrani/VGGVox) VGGVox models trained on the VoxCeleb dataset.
 * [mcnDatasets](https://github.com/albanie/mcnDatasets) Common dataset imdb helpers.
+* [mcnFerPlus](https://github.com/albanie/mcnFerPlus) Emotion recognition on Fer2013+
 * [mcnToyOptim](https://github.com/albanie/mcnToyOptim) Toy datasets for optimiser comparison.
 * [mcnDCGAN](https://github.com/hbilen/mcnDCGAN) Deep Convolution Generative Adversarial Networks.
 * [mcnIm2row](https://github.com/albanie/mcnIm2row) MATLAB interface to the im2row function.
