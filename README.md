@@ -36,4 +36,5 @@ To add new repositories, open a Pull Request with your suggested changes (GitHub
 * [RotEqNet](https://github.com/di-marcos/RotEqNet) Rotation equivariant vector field networks.
 * [autonn-feedforward-texture-synthesis](https://github.com/ryanwebster90/autonn-feedforward-texture-synthesis) Feed forward texture synthesis in autonn.
 * [WSDDN](https://github.com/hbilen/WSDDN) Weakly Supervised Detection Networks
+* [mcnCrossModalEmotions](https://github.com/albanie/mcnCrossModalEmotions) Emotion Recognition in Speech using Cross-Modal Transfer in the Wild. 
 * [mcn-example-module](https://github.com/lenck/mcn-example-module) Example contribution repository, including C++/CUDA code compilation.
